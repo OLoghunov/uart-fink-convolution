@@ -1,0 +1,39 @@
+$date
+	Thu Dec 12 01:48:34 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module decoder_tb $end
+$var wire 14 ! msg_out [13:0] $end
+$var reg 32 " msg_in [31:0] $end
+$scope module uut $end
+$var wire 32 # msg_in [31:0] $end
+$var parameter 32 $ MSG_SIZE $end
+$var parameter 32 % STEP $end
+$var reg 16 & a [15:0] $end
+$var reg 16 ' b [15:0] $end
+$var reg 14 ( msg_out [13:0] $end
+$var integer 32 ) i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b0 %
+b1110 $
+$end
+#0
+$dumpvars
+b1110 )
+b11010011101001 (
+b101110100111011 '
+b110100111010010 &
+b110110111000110101101110001110 #
+b110110111000110101101110001110 "
+b11010011101001 !
+$end
+#500

@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/GowinProjects/CourseWork/receiver/src/uart_receiver.v",
+  "InstLine" : 1,
+  "InstName" : "receiver",
+  "ModuleFile" : "C:/GowinProjects/CourseWork/receiver/src/uart_receiver.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "receiver",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/GowinProjects/CourseWork/receiver/src/uart_receiver.v",
+    "InstLine" : 31,
+    "InstName" : "uut",
+    "ModuleFile" : "C:/GowinProjects/CourseWork/receiver/src/decoder.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "decode"
+   }
+  ]
+ }
+]
